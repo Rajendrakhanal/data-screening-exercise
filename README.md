@@ -30,3 +30,7 @@ The notebook performs:
 
 ## Visualization
 ![alt text](Images/image-2.png)
+
+
+## Resources Used 
+- [US Immigration and Custom Enforcement](https://www.ice.gov/detain/detention-management)
