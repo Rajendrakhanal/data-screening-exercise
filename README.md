@@ -2,6 +2,9 @@
 
 This project involves cleaning and analyzing data from a CSV file (`messy_ice_detention.csv`) containing information about ICE detention facilities in the U.S. The final output displays the top 10 facilities by population and a bar chart for visual comparison.
 
+## Checkout the Notebook 
+[Open The Notebook](/data_screening_exercise.ipynb)
+
 ## 📝 Description
 
 The raw dataset is messy and includes:
